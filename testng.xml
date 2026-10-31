@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Task Ali Bdaer" verbose="1">
+    <parameter name="browser" value="chrome"/>
+    <test name="Price sorting">
+        <classes>
+            <class name="PriceSortTest"/>
+        </classes>
+    </test>
+</suite>
