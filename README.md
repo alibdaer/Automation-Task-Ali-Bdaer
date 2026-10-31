@@ -1,8 +1,5 @@
 ### Automation Project
 
-**Repository:**  
-https://github.com/alibdaer/Automation-Task-Ali-Bdaer
-
 **Requirements:** IntelliJ IDEA, JDK 17, and Google Chrome.
 
 **Open and run:**
