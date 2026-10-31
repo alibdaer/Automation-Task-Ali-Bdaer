@@ -95,7 +95,7 @@ public abstract class TestBase {
 
     private void saveFailureScreenshot(String testName) {
         try {
-            Path directory = Path.of("target", "screenshots");
+            Path directory = Path.of("screenshots", "screenshots");
             Files.createDirectories(directory);
             Path screenshot = directory.resolve(testName + ".png");
             byte[] image = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
