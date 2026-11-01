@@ -8,3 +8,9 @@
 2. In IntelliJ IDEA, select **File → Open**, choose the project’s `pom.xml`, and select **Open as Project**.
 3. Set the **Project SDK to JDK 17** and allow Maven dependencies to finish loading.
 4. Open `src/test/java/PriceSortTest.java` and click the green **Run** icon beside the class.
+
+### QA Strategy Document
+
+The QA strategy and documentation task is also included in this repository.
+
+**PDF Document:** [Ali_Bdaer_QA_Task.pdf](./Ali_Bdaer_QA_Task.pdf)
